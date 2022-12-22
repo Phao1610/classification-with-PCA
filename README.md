@@ -18,6 +18,15 @@
   People also ask, Where is PCA used?
 
     PCA is often used in fields like face recognition, computer vision, and image compression as a dimensionality reduction approach. It is also used in the fields of finance, data mining, bioinformatics, psychology, etc. to detect patterns in high dimension data.
+    
+    Principal component analysis can be broken down into five steps. I’ll go through each step, providing logical explanations of what PCA is doing and simplifying mathematical concepts such as standardization, covariance, eigenvectors and eigenvalues without focusing on how to compute them.
+
+    HOW DO YOU DO A PRINCIPAL COMPONENT ANALYSIS?
+        Step 1: Standardize the range of continuous initial variables
+        Step 2: Compute the covariance matrix to identify correlations
+        Step 3: Compute the eigenvectors and eigenvalues of the covariance matrix to identify the principal components
+        Step 4: Create a feature vector to decide which principal components to keep
+        Step 5: Recast the data along the principal components axes
 
 - Streamlit Python
 
