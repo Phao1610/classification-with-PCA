@@ -41,4 +41,4 @@
         Step 1: pip install streamlit
         Step 2: python -m streamlit run 20522028.py or streamlit run 20522028.py
         
-    ![video demo Logistic Regression with Streamlit](https://user-images.githubusercontent.com/106755542/208859031-d67fc7f9-82a0-46e9-ad7b-f89c0a849493.mp4)
+    ![video demo classification with PCA using Streamlit](https://user-images.githubusercontent.com/106755542/209093902-bfe4b12e-0401-437d-86ec-15780be63d60.mp4)
