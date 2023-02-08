@@ -1,5 +1,5 @@
 # classification with PCA using Streamlit
-- Prescription Cost Analysis(PCA) 
+- principal component analysis (PCA)
 
     A method for lowering the dimensionality of such datasets, improving interpretability while minimizing information loss is principal component analysis (PCA). It does this by producing fresh, uncorrelated variables that maximize variance one after another.
 
